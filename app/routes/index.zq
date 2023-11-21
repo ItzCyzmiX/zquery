@@ -5,6 +5,3 @@ btn.onclick = () => {
 }
 
 zFetch('GET /').then(res => console.log(res, ' was sent from the server! '))
-
-
-
