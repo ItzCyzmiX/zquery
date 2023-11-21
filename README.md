@@ -42,7 +42,7 @@ Suppose we have this simple html page:
         <h1 name='name'></h1>
         <h1></h1>
         
-        <script src='./out.js'></script> <!-- our zquery generated script -->
+        <script src='./index.js'></script> <!-- our zquery generated script -->
     </body>
 </html>
 ```
