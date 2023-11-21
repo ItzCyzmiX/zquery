@@ -5,14 +5,14 @@ This is the `official` zquery template!
 using [degit](https://www.npmjs.com/package/degit) *`the only way for now`*
 ```bash
 npm i degit -g # if you dont have degit installed!
-degit github.com/CyzmiX/zquey name-of-app-folder 
-# you can ignore the 'name-of-app-folder' if you want to create the project on the cwd
+degit github.com/CyzmiX/zquey zqApp
+# you can ignore the 'zqApp' if you want to create the project on the cwd
 ```
 
 ## Serving
 To serve the base template localy use
 ```bash
-cd name-of-app-folder # if it's not in the cwd
+cd zqApp # if it's not in the cwd
 
 # open two terminal session one for client and one for the server #
 
