@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="c" id='container'><h1 class='title'></h1></div>
+
+    <script defer src='./index.js'></script>
+</body>
+<style>
+    #container {
+        margin-right: 10px;
+        text-align: center;
+        border: 1.8px solid black;
+        border-radius: 10px;
+        padding: 0.1rem;
+        box-shadow: 5px 5px 0px black, 10px 10px 0px grey;
+
+        transition: all 0.25s ease;
+    }
+
+    #container:hover {
+        border-radius: 25px;
+        box-shadow: 10px 10px 0px black, 15px 15px 2px grey;
+        transform: translateY(3px)
+    }
+</style>
+
+</html>

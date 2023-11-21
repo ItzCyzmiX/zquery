@@ -1,0 +1,6 @@
+let h1 = &('h1.title')
+
+h1.innerText = 'ABOUT US!!'
+h1.css(`
+    color: tomato;
+`)

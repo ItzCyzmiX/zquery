@@ -1,0 +1,7 @@
+btn = &('button')
+btn.innerText = 'greet'
+btn.onclick = () => {
+    &('h1').innerText = 'Hello, World!'
+}
+
+

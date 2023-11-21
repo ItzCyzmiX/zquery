@@ -1,0 +1,7 @@
+{
+
+    "paths": {
+        "app": "app/routes",
+        "server": "app/server"
+    }
+}   
