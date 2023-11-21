@@ -48,7 +48,7 @@ Suppose we have this simple html page:
     </body>
 </html>
 ```
-we can use zquery to retreive every element quiqly!
+we can use zquery to retreive every element with the speed of light!!!
 ```js
 &('h1.class') // returns the first h1 with the class 'class'
 &('h1.class!') // returns a list of all h1s with the class 'class
