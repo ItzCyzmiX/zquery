@@ -39,9 +39,9 @@ split.forEach((s, i) => {
 
 
 //const Creator = fs.readFileSync('./creator.js').toString()
-const Selector = fs.readFileSync('./selector.js').toString()
-const err = fs.readFileSync('./error.js').toString()
-const zFetch = fs.readFileSync('./fetch.js').toString()
+const Selector = fs.readFileSync('./src/selector.js').toString()
+const err = fs.readFileSync('./src/error.js').toString()
+const zFetch = fs.readFileSync('./src/fetch.js').toString()
 
 let str = zFetch + '\n' 
 
