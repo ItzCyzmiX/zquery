@@ -15,7 +15,7 @@ To serve the base template localy use
 cd zqApp # if it's not in the cwd
 
 npm i # to install all dependencies 
-
+npm i nodemon -g # install nodemon globally for hot-reloading
 # open two terminal session one for client and one for the server #
 
 # in client terminal run
