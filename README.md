@@ -5,7 +5,7 @@ This is the `official` zquery template!
 using [degit](https://www.npmjs.com/package/degit) *`the only way for now`*
 ```bash
 npm i degit -g # if you dont have degit installed!
-degit github.com/CyzmiX/zquey zqApp
+degit github.com/ItzCyzmiX/zquery zqApp
 # you can ignore the 'zqApp' if you want to create the project on the cwd
 ```
 
